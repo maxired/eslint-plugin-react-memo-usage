@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-react-memo-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/lib/rules/no-bad-react-memo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "mocha": "^10.3.0"
+  }
+}
